@@ -64,6 +64,7 @@ EOF
 ## 日記列表
 
 - [Day 1](day1.md) - Docker 環境擴充 + Node.js 專案建立
+- [Day 2](day2.md) - Express 專案配置、PM2 進程管理、Docker 環境優化
 
 ## 寫日記的好處
 
